@@ -8,4 +8,4 @@ function validateForm() {
       console.log("email validated!")
       return true;
   }
-}
+} 
